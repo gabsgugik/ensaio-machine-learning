@@ -76,7 +76,7 @@ validação, utilizando os melhores valores para os parâmetros de controle
 do algoritmo.
 
 Passo 8: Medir a performance dos algoritmos treinados com os melhores
-parâmetro, utilizando o conjunto de dados de teste.
+parâmetros, utilizando o conjunto de dados de teste.
 
 Passo 9: Avaliar os ensaios e anotar os 3 principais Insights que se
 destacaram.
@@ -134,7 +134,7 @@ Nesse ensaio de Machine Learning, consegui adquirir experiência e
 entender melhor sobre os limites dos algoritmos entre os estados de
 underffiting e overfitting.
 
-Algoritmos baseados em árvores são sensível quanto a profundidade do
+Algoritmos baseados em árvores são sensíveis quanto a profundidade do
 crescimento e do número de árvores na floresta, fazendo com que a
 escolha correta dos valores desses parâmetros impeçam os algoritmos de
 entrar no estado de overfitting.
